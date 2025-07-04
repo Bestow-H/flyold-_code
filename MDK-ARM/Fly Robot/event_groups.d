@@ -1,0 +1,15 @@
+fly robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+fly robot\event_groups.o: D:\kevil\ARM\compiler5\Bin\..\include\stdlib.h
+fly robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+fly robot\event_groups.o: D:\kevil\ARM\compiler5\Bin\..\include\stddef.h
+fly robot\event_groups.o: D:\kevil\ARM\compiler5\Bin\..\include\stdint.h
+fly robot\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+fly robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+fly robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+fly robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+fly robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+fly robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+fly robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+fly robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+fly robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+fly robot\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h

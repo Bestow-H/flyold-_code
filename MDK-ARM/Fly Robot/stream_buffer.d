@@ -1,0 +1,14 @@
+fly robot\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+fly robot\stream_buffer.o: D:\kevil\ARM\compiler5\Bin\..\include\stdint.h
+fly robot\stream_buffer.o: D:\kevil\ARM\compiler5\Bin\..\include\string.h
+fly robot\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+fly robot\stream_buffer.o: D:\kevil\ARM\compiler5\Bin\..\include\stddef.h
+fly robot\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+fly robot\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+fly robot\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+fly robot\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+fly robot\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+fly robot\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+fly robot\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+fly robot\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+fly robot\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h

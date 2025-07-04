@@ -1,0 +1,12 @@
+fly robot\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+fly robot\list.o: D:\kevil\ARM\compiler5\Bin\..\include\stdlib.h
+fly robot\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+fly robot\list.o: D:\kevil\ARM\compiler5\Bin\..\include\stddef.h
+fly robot\list.o: D:\kevil\ARM\compiler5\Bin\..\include\stdint.h
+fly robot\list.o: ../Core/Inc/FreeRTOSConfig.h
+fly robot\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+fly robot\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+fly robot\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+fly robot\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+fly robot\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+fly robot\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

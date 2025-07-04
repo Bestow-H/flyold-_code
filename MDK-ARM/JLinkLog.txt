@@ -1,0 +1,75 @@
+T4E34 000:198.208   SEGGER J-Link V7.88j Log File
+T4E34 000:198.469   DLL Compiled: Jun 28 2023 13:33:44
+T4E34 000:198.474   Logging started @ 2025-03-10 02:10
+T4E34 000:198.478 - 198.480ms
+T4E34 000:198.493 JLINK_SetWarnOutHandler(...)
+T4E34 000:198.498 - 0.007ms
+T4E34 000:198.503 JLINK_OpenEx(...)
+T4E34 000:200.436   Firmware: J-Link V11 compiled Apr 13 2021 17:20:05
+T4E34 000:200.786   Firmware: J-Link V11 compiled Apr 13 2021 17:20:05
+T4E34 000:219.457   Hardware: V11.00
+T4E34 000:219.479   S/N: 261012908
+T4E34 000:219.485   OEM: SEGGER-EDU
+T4E34 000:219.491   Feature(s): FlashBP, GDB
+T4E34 000:220.848   Bootloader: (Could not read)
+T4E34 000:221.683   TELNET listener socket opened on port 19021
+T4E34 000:221.899   WEBSRV WEBSRV_Init(): Starting webserver thread(s)
+T4E34 000:222.036   WEBSRV Webserver running on local port 19080
+T4E34 000:222.196   Looking for J-Link GUI Server exe at: D:\Keil\ARM\Segger\JLinkGUIServer.exe
+T4E34 000:222.420   Looking for J-Link GUI Server exe at: D:\nrf\JLink\JLinkGUIServer.exe
+T4E34 000:222.487   Forking J-Link GUI Server: D:\nrf\JLink\JLinkGUIServer.exe
+T4E34 000:250.632   J-Link GUI Server info: "J-Link GUI server V7.88j "
+T4E34 000:254.435 - 55.936ms returns "O.K."
+T4E34 000:254.456 JLINK_GetEmuCaps()
+T4E34 000:254.461 - 0.006ms returns 0xB9FF7BBF
+T4E34 000:254.469 JLINK_TIF_GetAvailable(...)
+T4E34 000:254.775 - 0.316ms
+T4E34 000:254.791 JLINK_SetErrorOutHandler(...)
+T4E34 000:254.796 - 0.006ms
+T4E34 000:254.840 JLINK_ExecCommand("ProjectFile = "D:\×ÀÃæ\Fly Robot\MDK-ARM\JLinkSettings.ini"", ...). 
+T4E34 000:267.037   Ref file found at: D:\Keil\ARM\Segger\JLinkDevices.ref
+T4E34 000:267.182   REF file references invalid XML file: D:\nrf\JLink\JLinkDevices.xml
+T4E34 000:267.472 - 12.642ms returns 0x00
+T4E34 000:267.509 JLINK_ExecCommand("Device = STM32F427VITx", ...). 
+T4E34 000:268.655   Flash bank @ 0x90000000: SFL: Parsing sectorization info from ELF file
+T4E34 000:268.688     FlashDevice.SectorInfo[0]: .SectorSize = 0x00010000, .SectorStartAddr = 0x00000000
+T4E34 000:270.186   Device "STM32F427VI" selected.
+T4E34 000:270.680 - 3.170ms returns 0x00
+T4E34 000:270.694 JLINK_ExecCommand("DisableConnectionTimeout", ...). 
+T4E34 000:270.701 - 0.003ms returns 0x01
+T4E34 000:270.706 JLINK_GetHardwareVersion()
+T4E34 000:270.711 - 0.006ms returns 110000
+T4E34 000:270.724 JLINK_GetDLLVersion()
+T4E34 000:270.728 - 0.005ms returns 78810
+T4E34 000:270.732 JLINK_GetOEMString(...)
+T4E34 000:270.741 JLINK_GetDLLVersion()
+T4E34 000:270.747 - 0.010ms returns 78810
+T4E34 000:270.756 JLINK_GetCompileDateTime()
+T4E34 000:270.762 - 0.008ms
+T4E34 000:270.769 JLINK_GetFirmwareString(...)
+T4E34 000:270.783 - 0.016ms
+T4E34 000:270.791 JLINK_GetHardwareVersion()
+T4E34 000:270.796 - 0.008ms returns 110000
+T4E34 000:270.803 JLINK_GetSN()
+T4E34 000:270.809 - 0.008ms returns 261012908
+T4E34 000:270.816 JLINK_GetOEMString(...)
+T4E34 000:270.825 JLINK_TIF_Select(JLINKARM_TIF_JTAG)
+T4E34 000:271.979 - 1.162ms returns 0x00
+T4E34 000:271.992 JLINK_HasError()
+T4E34 000:272.034 JLINK_SetSpeed(5000)
+T4E34 000:272.151 - 0.120ms
+T4E34 000:274.156 JLINK_HasError()
+T4E34 000:274.168 JLINK_SetResetType(JLINKARM_RESET_TYPE_NORMAL)
+T4E34 000:274.173 - 0.006ms returns JLINKARM_RESET_TYPE_NORMAL
+T4E34 000:274.178 JLINK_Reset()
+T4E34 000:274.416 - 0.243ms
+T4E34 000:274.425 JLINK_GetIdData(pIdData)
+T4E34 000:274.610 - 0.196ms
+T4E34 000:274.627 JLINK_GetIdData(pIdData)
+T4E34 000:274.833 - 0.209ms
+T4E34 000:279.018 JLINK_GetFirmwareString(...)
+T4E34 000:279.030 - 0.013ms
+T4E34 003:529.347 JLINK_Close()
+T4E34 003:543.507 - 14.192ms
+T4E34 003:543.543   
+T4E34 003:543.548   Closed
